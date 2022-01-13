@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#circulo {
+	list-style-type: circle;
+}
+
+#decimal {
+	list-style-type: decimal;
+}
+
+#I {
+	list-style-type: upper-roman;
+}
+
+#a {
+	list-style-type: lower-latin;
+}
